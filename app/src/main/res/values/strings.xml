@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_materials">Materials fragment</string>
+    <string name="fragment_reservation">Reservation fragment</string>
+    <string name="fragment_rent">Rent fragment</string>
+    <string name="fragment_user_profile">User profile fragment</string>
+    <string name="buttonMaterial">Materijali</string>
+    <string name="buttonReservation">Rezervacija</string>
+    <string name="buttonRent">Rent</string>
+    <string name="buttonUserProfile">Profile</string>
+    <string name="server_url">http://46.101.253.71:5000</string>
+
+</resources>
